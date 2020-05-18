@@ -25,4 +25,13 @@ Untuk minSDK, disini menggunakan set API 21.
 10. Buat Class Support ItemClickSupport.java. Class ini berguna untuk support atau decoration dari class adapter. source : [ItemClickSupport.java](https://github.com/Faqihyugos/IlmuanIslam/blob/master/app/src/main/java/com/faqih/ilmuanislam/support/ItemClickSupport.java)
 
 Sisa nya liat dan download source code ini selamat ber-explorasi
-### Selesai terimakasih
+
+* Bisa langsung dicoba apk hasilnya : [apk](https://github.com/Faqihyugos/IlmuanIslam/tree/master/outputs/apk/debug)
+
+### Selesai terimakasih.
+### Team : 
+1. Faqih Yugo Susilo (10417082)
+2. Steven Sebastian (10417152)
+3. Rizky Pratama (10417093)
+4. Dessy Santi Megawati (10417047)
+5. Siti Raisyah (10417055)
