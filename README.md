@@ -29,7 +29,7 @@ Sisa nya liat dan download source code ini selamat ber-explorasi
 * Bisa langsung dicoba apk hasilnya : [apk](https://github.com/Faqihyugos/IlmuanIslam/tree/master/outputs/apk/debug)
 
 ### Selesai terimakasih.
-### Team : 
+### Anggota kelompok tugas android studio : 
 1. Faqih Yugo Susilo (10417082)
 2. Steven Sebastian (10417152)
 3. Rizky Pratama (10417093)
