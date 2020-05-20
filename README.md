@@ -31,7 +31,7 @@ Sisa nya liat dan download source code ini selamat ber-explorasi
 ### Selesai terimakasih.
 ### Anggota kelompok tugas android studio : 
 1. Faqih Yugo Susilo (10417082)
-2. Steven Sebastian (10417152)
+2. Steven Sebastian S (10417154)
 3. Rizky Pratama (10417093)
 4. Dessy Santi Megawati (10417047)
-5. Siti Raisyah (10417055)
+5. Siti Raisyah I.B (10417055)
